@@ -1,4 +1,6 @@
 # guessing_game
 
-cargo build
+example from official site<br><br>
+
+cargo build<br>
 cargo run
